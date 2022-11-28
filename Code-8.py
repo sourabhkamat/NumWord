@@ -1,4 +1,5 @@
 def OTH(number):
+    '''This Function Only Returns Ones Tens And Hundred In Word Form'''
     number = int(number)
 #     if number == 0:
 #         return 'Zero'
