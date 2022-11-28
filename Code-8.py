@@ -118,7 +118,7 @@ numWord = []
 print_flag = True
 
 if num0 == 0:
-    numWord.insert(0, 'Zero, Badka! Badka! Anda...')
+    numWord.insert(0, 'Zero')
 if numlen1 <= 19:
     for i in range(numlen):
         numWord.insert(0, OTH(num[i]))
